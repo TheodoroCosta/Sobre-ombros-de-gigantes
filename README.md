@@ -1,1 +1,3 @@
-# Sobre-ombros-de-gigantes
+![Cover](https://user-images.githubusercontent.com/112489125/189534927-cc4ba55a-210c-4cba-a6c6-eb33ee57dbc6.png)
+
+### __*James Gosling (Calgary, 19 de maio de 1956) é um programador canadense, mais conhecido como o pai da linguagem de programação Java. Em 1977, James Gosling se formou bacharel em ciência da computação pela Universidade de Calgary, e em 1983 obteve um PhD em ciência da computação pela Universidade Carnegie Mellon. Enquanto preparava seu doutorado, Gosling programou a versão original do editor de texto emacs para UNIX, e antes de se juntar a Sun Microsystems construiu uma versão de UNIX para máquinas multiprocessadas, assim como diversos compiladores e sistemas de mensagens eletrônicas*.__
